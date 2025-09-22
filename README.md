@@ -1,5 +1,5 @@
 # Cybersecurity-Task1-Nmap-Port-Scan
-1. Task 1 — Network Reconnaissance: Fateh Ali Abbas Ali Maknojiya
+Task 1 — Network Reconnaissance: Fateh Ali Abbas Ali Maknojiya
 
 I. Target scanned
    • 192.168.1.0/24
